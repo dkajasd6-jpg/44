@@ -1,0 +1,7 @@
+{
+  "name": "Remix: GSS 안전관리 (Android)",
+  "description": "Jetpack Compose 기반 건설 현장 안전관리 시스템",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
